@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 p{
-	color: green;
+	color: #2A1060;
 	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, "serif"; 
 	font-size: 16px;
 	line-height: 18px;
@@ -9,20 +9,24 @@ p{
 	background-color: antiquewhite;
 	padding: 20px;
 }
-.paragraf_2 {color:darkcyan; background-color: rgba(255, 255, 255, 0.5)} .novi_blok {
+.paragraf_2 {color:#2A1060; background-color: rgba(255, 255, 255, 0.5)} .novi_blok {
 	background-color: rgba(255, 255, 255, 0.9);
 	padding: 20px;
 	margin: 20px;
 	width: 50%;
 }
-h1, h2 {
-	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
-	color: cadetblue;
+h1 {
+	font-family: "EmaNovosel";
+	color: #2A1060;
 }
+h2 {
+	font-family: "aclonica";
+	color: #2A1060
+} 
 
 span {color: rgb(255, 0, 255);}
 .pozadina {
-	background-image: url("slike/06.jpg");
+	background-image: url("slike/pozadina.jpeg");
 }
 .drugapozadina {
 	background-color: #6BA8B8;
