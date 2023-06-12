@@ -44,3 +44,7 @@ a:hover {
 img {
 	height: 300px
 }
+
+nav ul li{
+	display: inline;
+}
