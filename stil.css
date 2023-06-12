@@ -16,16 +16,17 @@ p{
 	width: 50%;
 }
 
-h1  @font-face {
-  font-family: EmaNovosel;
-  src: url(webfontkit-20230612-111404/emanovosel-webfont.woff);
-  color: #2A1060;
-}
 
-div {
-  font-family: EmaNovosel;
-}
+@font-face{ 
+	font-family: EmaNovosel;
+  	src: url("EmaNovosel.ttf");}
 
+h1 {
+	font-family: "EmaNovosel";
+	color: #2A1060
+
+}
+ 
 
 
 h2 {
