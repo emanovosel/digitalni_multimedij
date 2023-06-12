@@ -16,9 +16,12 @@ p{
 	width: 50%;
 }
 h1 {
-	font-family: "EmaNovosel";
-	color: #2A1060;
+font-family: EmaNovosel;
+src: url ("webfontkit-20230612-111404/emanovosel-webfont.woff");
+src: url("webfontkit-20230612-111404/emanovosel-webfont.woff2") format("woff"),
+color: #2A1060;
 }
+
 h2 {
 	font-family: "aclonica";
 	color: #2A1060
